@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 , I am Gargi Joshi | Sophomore at PICT | IT department 
+# 🌟 Frontend developer & designer | Building accessible web experiences
+
+---
+
+## 🚀 About Me
+Driven by a passion for making a difference, I thrive on collaboration, creativity, and continuous learning.
+- 🌱 I’m currently learning Backend Technologies , AIML 
 
 <!--
 **gargijoshi9/gargijoshi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
