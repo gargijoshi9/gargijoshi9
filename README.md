@@ -1,5 +1,5 @@
 ## Hi there 👋 , I am Gargi Joshi | Sophomore at PICT | IT department 
-# 🌟 Frontend developer & designer | Building accessible web experiences
+### 🌟 Frontend developer & designer | Building accessible web experiences
 
 ---
 
