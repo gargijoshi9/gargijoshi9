@@ -8,7 +8,8 @@
 
 ## 🚀 About Me
 
-I’m a passionate **Frontend Developer** who loves bringing ideas to life through clean, accessible, and interactive interfaces. I thrive at the intersection of **design and technology**, and I’m constantly exploring new ways to make the web more inclusive and beautiful.
+I’m a passionate **Frontend Developer** who loves bringing ideas to life through clean, accessible, and interactive interfaces.
+I thrive at the intersection of **design and technology**, and I’m constantly exploring new ways to make the web more inclusive and beautiful.
 
 Currently, I’m diving deep into **Backend Development** and **AI/ML**, expanding my skillset to become a well-rounded **Full Stack Developer**.
 
@@ -52,6 +53,16 @@ Currently, I’m diving deep into **Backend Development** and **AI/ML**, expandi
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gargijoshi9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gargijoshi9&show_icons=true&locale=en&theme=tokyonight" alt="github-stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gargijoshi9&theme=tokyonight" alt="github-streak" /></p>
 
 ---
 
