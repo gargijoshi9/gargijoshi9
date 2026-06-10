@@ -60,7 +60,7 @@ const gargi = {
 
 <br/>
 
-## 🎬 CineMatch — Movie Recommendation System
+### 🎬 CineMatch — Movie Recommendation System
 
 > Content-based recommendation engine over **4,800+ films** using NLP, CountVectorizer & Cosine Similarity
 > Real-time TMDB API poster fetching with interactive Streamlit interface
@@ -68,7 +68,7 @@ const gargi = {
 
 ---
 
-## 🤖 MSME-360 — AI-Powered Business Automation SaaS
+### 🤖 MSME-360 — AI-Powered Business Automation SaaS
 
 > RAG-based AI assistant using Groq LLMs and vector embeddings for contextual business insights
 > OCR → LLM → structured data pipeline for invoice and receipt automation
@@ -76,7 +76,7 @@ const gargi = {
 
 ---
 
-## 🌍 Carbon Emission Tracking System
+### 🌍 Carbon Emission Tracking System
 
 > Blockchain + machine learning platform to monitor and reduce industrial carbon emissions
 > Built emission prediction models for forecasting trends and performing risk analysis
@@ -84,7 +84,7 @@ const gargi = {
 
 ---
 
-## 🟠 ORANGE — Language Learning Website   🏆 IEEE TechRush 1st Place
+### 🟠 ORANGE — Language Learning Website   🏆 IEEE TechRush 1st Place
 
 > Gamified bite-sized lessons with progress tracking and mascot-driven UX
 > Built during IEEE TechRush Hackathon — secured **1st Place**
