@@ -60,19 +60,34 @@ const gargi = {
 
 <br/>
 
-### 🎬 CineMatch — Movie Recommendation System
-> Content-based engine over **4,800+ films** · NLP · CountVectorizer · Cosine Similarity · Live Streamlit App
+## 🎬 CineMatch — Movie Recommendation System
 
-### 🌍 Carbon Emission Tracking System
-> Blockchain + ML platform · Emission forecasting · Compliance dashboards · Carbon credit trading  
-> `React.js` `Next.js` `Node.js` `Cosmos DB` `Blockchain` `ML`
+> Content-based recommendation engine over **4,800+ films** using NLP, CountVectorizer & Cosine Similarity
+> Real-time TMDB API poster fetching with interactive Streamlit interface
+> `Python` `NLP` `Scikit-learn` `Streamlit` `TMDB API`
 
-### 🎓 OneStop Career Guidance Platform
-> LLM-based chatbot · Aptitude-driven college recommendation system  
-> `React.js` `Tailwind CSS` `Node.js` `Express.js` `REST API` `LLM`
+---
 
-### 🟠 ORANGE — Language Learning Website &nbsp; 🏆 IEEE TechRush 1st Place
-> Gamified bite-sized lessons · Progress tracking · Mascot-driven UX  
+## 🤖 MSME-360 — AI-Powered Business Automation SaaS
+
+> RAG-based AI assistant using Groq LLMs and vector embeddings for contextual business insights
+> OCR → LLM → structured data pipeline for invoice and receipt automation
+> `React.js` `TypeScript` `Node.js` `MongoDB` `Groq API` `ChromaDB`
+
+---
+
+## 🌍 Carbon Emission Tracking System
+
+> Blockchain + machine learning platform to monitor and reduce industrial carbon emissions
+> Built emission prediction models for forecasting trends and performing risk analysis
+> `React.js` `Next.js` `Node.js` `Cosmos DB` `Blockchain` `Machine Learning`
+
+---
+
+## 🟠 ORANGE — Language Learning Website   🏆 IEEE TechRush 1st Place
+
+> Gamified bite-sized lessons with progress tracking and mascot-driven UX
+> Built during IEEE TechRush Hackathon — secured **1st Place**
 > `HTML` `CSS` `JavaScript`
 
 ---
