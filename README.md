@@ -53,7 +53,7 @@ const gargi = {
 
 <div align="center">
 
-<a href="https://github.com/gargijoshi9">
+<a href="https://github.com/gargijoshi9/CineMatch">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gargijoshi9&repo=CineMatch&theme=tokyonight&border_color=6C63FF" />
 </a>
 
@@ -72,21 +72,6 @@ const gargi = {
 - Built an OCR → LLM → Structured Data pipeline for invoice and receipt processing.
 - Automated business workflows and generated contextual business insights.
 - Developed scalable REST APIs for document analysis and data retrieval.
-
----
-
-### 🔍 ED007 — AI Plagiarism & Authenticity Checker
-> AI-powered plagiarism and semantic similarity detection platform for educational institutions.
-
-**Tech Stack:**  
-`Python` `FastAPI` `Sentence Transformers` `ChromaDB` `Scikit-Learn` `NLP`
-
-**Key Features**
-- Built semantic similarity detection using Sentence Transformers.
-- Integrated Chroma Vector Database for document retrieval.
-- Implemented cosine similarity-based plagiarism scoring.
-- Developed LMS-ready APIs for assignment analysis.
-- Enabled detection of paraphrased and AI-generated content.
 
 ---
 
