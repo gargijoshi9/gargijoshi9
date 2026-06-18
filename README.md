@@ -53,7 +53,7 @@ const gargi = {
 
 <div align="center">
 
-<a href="https://github.com/gargijoshi9/CineMatch">
+<a href="https://github.com/gargijoshi9/netflix-recommender">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gargijoshi9&repo=CineMatch&theme=tokyonight&border_color=6C63FF" />
 </a>
 
