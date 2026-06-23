@@ -25,7 +25,6 @@ const gargi = {
   location  : "Pune, India 🇮🇳",
   stack     : ["React.js", "Node.js", "TypeScript", "Python"],
   interests : ["Full-Stack Dev", "AI/ML", "Open Source", "UI/UX"],
-  currentlyLearning : "Selenium + BDD + Java for test automation",
   funFact   : "Won 1st place at IEEE TechRush Hackathon 🏆",
   openTo    : "Internship opportunities — let's connect!"
 };
