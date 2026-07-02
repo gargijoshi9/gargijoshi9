@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=200&section=header&text=Gargi%20Ankur%20Joshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20IT%20Undergrad%20%40%20PICT%20Pune&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+things+that+actually+ship+%F0%9F%9A%80;React+%7C+Node.js+%7C+Python+%7C+TypeScript;IEEE+Hackathon+Winner+%F0%9F%8F%86;Open+Source+Contributor+%E2%9C%A8;9.41+CGPA+%40+PICT+Pune)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+things+that+actually+ship+%F0%9F%9A%80;React+%7C+Node.js+%7C+Python+%7C+TypeScript;IEEE+Hackathon+Winner+%F0%9F%8F%86;Open+Source+Contributor+%E2%9C%A8;9.415+CGPA+%40+PICT+Pune)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,7 +21,7 @@
 const gargi = {
   college   : "Pune Institute of Computer Technology (PICT)",
   degree    : "B.Tech (Hons.) IT + Minor in Finance",
-  cgpa      : 9.41,
+  cgpa      : 9.415,
   location  : "Pune, India 🇮🇳",
   stack     : ["React.js", "Node.js", "TypeScript", "Python"],
   interests : ["Full-Stack Dev", "AI/ML", "Open Source", "UI/UX"],
@@ -39,7 +39,6 @@ const gargi = {
 | 🥇 Achievement | 📌 Details |
 |---|---|
 | IEEE TechRush Hackathon | **1st Place** — PICT Pune |
-| Academic Excellence | **9.55 CGPA** — Top of class |
 | Open Source | **GSSoC '25** Contributor — 2 PRs merged |
 | Industry Experience | **Website Developer Intern** — Thyright Innovations |
 | Impact | Improved UI responsiveness by **30%** on live OSS project |
