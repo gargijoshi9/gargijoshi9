@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=200&section=header&text=Gargi%20Ankur%20Joshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20IT%20Undergrad%20%40%20PICT%20Pune&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=200&section=header&text=Gargi%20Ankur%20Joshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML%20Developer%20%7C%20IT%20Undergrad%20%40%20PICT%20Pune&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+things+that+actually+ship+%F0%9F%9A%80;React+%7C+Node.js+%7C+Python+%7C+TypeScript;IEEE+Hackathon+Winner+%F0%9F%8F%86;Open+Source+Contributor+%E2%9C%A8;9.415+CGPA+%40+PICT+Pune)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-powered+products+that+actually+ship+%F0%9F%9A%80;React+%7C+Node.js+%7C+Python+%7C+LLMs+%7C+RAG;IEEE+Hackathon+Winner+%F0%9F%8F%86;EY+Techathon+Round+2+Shortlisted+%E2%9C%A8;9.415+CGPA+%40+PICT+Pune)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gargi-joshi-a9246b331)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gargijoshi9)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://gargijoshi9.github.io/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gargijoshi9/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gargijoshi0902@gmail.com)
+[![Phone](https://img.shields.io/badge/+91%209423402120-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919423402120)
 
 </div>
 
@@ -17,169 +18,128 @@
 
 ## 👩‍💻 About Me
 
-```typescript
-const gargi = {
-  college   : "Pune Institute of Computer Technology (PICT)",
-  degree    : "B.Tech (Hons.) IT + Minor in Finance",
-  cgpa      : 9.415,
-  location  : "Pune, India 🇮🇳",
-  stack     : ["React.js", "Node.js", "TypeScript", "Python"],
-  interests : ["Full-Stack Dev", "AI/ML", "Open Source", "UI/UX"],
-  funFact   : "Won 1st place at IEEE TechRush Hackathon 🏆",
-  openTo    : "Internship opportunities — let's connect!"
-};
-```
+**IT undergrad at PICT Pune** · CGPA **9.415/10** · Minor in Finance · Pune, India 🇮🇳
+
+I build full-stack and AI-integrated products — from React/Node.js backends to RAG pipelines and LLM workflows. My work ships to real users, not just GitHub.
+
+🏆 **IEEE TechRush Winner** &nbsp;|&nbsp; 🎖️ **EY Techathon Round 2** &nbsp;|&nbsp; ⭐ **PCCOE Grand Challenge Round 2** &nbsp;|&nbsp; 🌐 **GSSoC '25 Contributor**
+
+**Currently open to:** Internships in software development & AI engineering
 
 ---
 
-## 🏆 Highlights
+## 🏆 Achievements
 
 <div align="center">
 
 | 🥇 Achievement | 📌 Details |
 |---|---|
-| IEEE TechRush Hackathon | **1st Place** — PICT Pune |
-| Open Source | **GSSoC '25** Contributor — 2 PRs merged |
-| Industry Experience | **Website Developer Intern** — Thyright Innovations |
-| Impact | Improved UI responsiveness by **30%** on live OSS project |
+| 🏆 IEEE TechRush Hackathon | **1st Place** — Won with the Language Learning App, recognised for innovation and execution |
+| 🎖️ EY Techathon Round 2 | **Shortlisted** for Round 2 — AI Loan Sales Chatbot, national-level competition |
+| ⭐ PCCOE Indradhanu Grand Challenge | **Round 2 Shortlisted** — International Grand Challenge, recognised for impactful tech solution design |
+| 🌐 Open Source | **GSSoC '25** Contributor — 2 PRs merged into production |
+| 🎓 Academic Excellence | **9.415 CGPA** — Consistent top performer, IT Department, PICT |
+| 💼 Industry Experience | **Website Developer Intern** — Thyright Innovations, 500+ monthly users |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<br/>
+### 🤖 MSME-360 — AI-Powered Business Automation SaaS &nbsp; [Live Demo](https://pbl-project-7.onrender.com/)
 
-### 🤖 MSME-360 — AI-Powered Business Automation SaaS
-> RAG-powered business automation platform for MSMEs with OCR-driven document processing and AI-powered insights.
+> RAG-based AI assistant using **Groq LLMs** and **ChromaDB** vector embeddings for contextual business insights
+> End-to-end **OCR → LLM → structured data** pipeline for automated invoice and receipt processing
 
-**Tech Stack:**  
-`React` `TypeScript` `Node.js` `Express.js` `MongoDB` `Groq API` `RAG` `LLM`
-
-**Key Features**
-- Implemented a Retrieval-Augmented Generation (RAG) assistant using Groq LLMs and vector embeddings.
-- Built an OCR → LLM → Structured Data pipeline for invoice and receipt processing.
-- Automated business workflows and generated contextual business insights.
-- Developed scalable REST APIs for document analysis and data retrieval.
+`React.js` `TypeScript` `Node.js` `MongoDB` `Groq API` `ChromaDB` `Express.js`
 
 ---
 
-### 🎬 CineMatch — Movie Recommendation System
-> Content-based recommendation engine over 4,800+ films using NLP and Machine Learning.
+### 🎬 CineMatch — AI Movie Recommendation System &nbsp; [Live Demo](https://netflix-recommender-project.streamlit.app/)
 
-**Tech Stack:**  
-`Python` `NLP` `Scikit-Learn` `Streamlit` `TMDB API`
+> Semantic recommendation engine over **4,800+ films** using SentenceTransformers and dense vector embeddings
+> Compressed a **23M+ cell similarity matrix** via BZ2; 3-tier retry logic for zero-downtime poster fetching
 
-**Key Features**
-- Built recommendation engine using CountVectorizer and Cosine Similarity.
-- Processed metadata from 4,800+ movies.
-- Integrated TMDB API for poster retrieval.
-- Deployed interactive Streamlit application.
+`Python` `SentenceTransformers` `Scikit-learn` `Streamlit` `OMDb API`
 
 ---
 
-### 🌍 Carbon Emission Tracking System
-> Blockchain and Machine Learning platform for monitoring industrial carbon emissions.
+### 🌍 Carbon Emission Tracking System &nbsp; [GitHub](https://github.com/orgs/PCCOE-Carbon-Footprint/repositories)
 
-**Tech Stack:**  
-`React.js` `Next.js` `Node.js` `Cosmos DB` `Blockchain` `Machine Learning`
+> Blockchain + ML platform for industrial carbon emission **monitoring, anomaly detection & compliance**
+> Isolation Forest for anomaly detection; blockchain-backed secure record integrity for enterprise and government use
 
-**Key Features**
-- Developed emission tracking dashboards.
-- Built ML-based emission forecasting model.
-- Implemented carbon credit management workflows.
-- Designed blockchain-backed compliance tracking.
+`React.js` `Next.js` `Node.js` `Cosmos DB` `Isolation Forest` `Blockchain` `ML`
 
 ---
+### 🟠 ORANGE — Language Learning Website &nbsp; 🏆 IEEE TechRush 1st Place &nbsp; [Live](https://starlit-palmier-fbc80f.netlify.app/)
 
-### 🎓 OneStop Career Guidance Platform
-> Personalized career and education guidance platform with AI-powered recommendations.
+> Gamified bite-sized lessons with progress tracking and mascot-driven UX
+> Built and shipped under competitive hackathon time constraints
 
-**Tech Stack:**  
-`React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `LLM`
-
-**Key Features**
-- Aptitude-based college recommendation system.
-- AI-powered career guidance chatbot.
-- Study material and scholarship discovery.
-- College search and comparison tools.
-
----
-
-### 💰 Smart Expense Tracker
-> Personal finance management platform for expense tracking and analytics.
-
-**Tech Stack:**  
-`React.js` `Tailwind CSS` `JavaScript` `Chart.js`
-
-**Key Features**
-- Expense categorization and tracking.
-- Interactive spending dashboards.
-- Monthly financial insights.
-- Responsive and mobile-friendly design.
-
----
-
-### 🟠 ORANGE — Language Learning Platform 🏆
-> IEEE TechRush Hackathon Winning Project.
-
-**Tech Stack:**  
 `HTML` `CSS` `JavaScript`
 
-**Key Features**
-- Gamified language learning experience.
-- Progress tracking system.
-- Interactive quizzes and lessons.
-- Mascot-driven engaging user experience.
+---
 
-🏆 **Winner — IEEE TechRush Hackathon**
+### 🧠 LogiBrain — Distribution Supply Management System &nbsp; [GitHub](#)
+
+> Inventory optimization system applying **EOQ & ROP models** across a multi-warehouse distribution network
+> **Dijkstra's algorithm** for optimal route computation between distribution nodes
+
+`Python` `Flask` `SQLite` `Dijkstra's Algorithm` `DSA`
 
 ---
+
+### 💬 AI Loan Sales Chatbot &nbsp; [GitHub](#) &nbsp; <sub>🎖️ EY Techathon Round 2</sub>
+
+> Conversational AI chatbot automating personal loan sales workflows using **multi-agent architecture**
+> Handles eligibility checks, verification, and approval automation end-to-end
+
+`Python` `LLMs` `Multi-Agent`
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
+**Backend & Languages**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
-
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### AI / ML
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-6C63FF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-48CAE4?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM_Integration-6C63FF?style=for-the-badge)
+**AI & ML**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Databases
+**Databases & Tools**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -201,18 +161,20 @@ const gargi = {
 
 **🏥 Website Developer Intern · Thyright Innovations Pvt. Ltd.**
 `Nov 2025 – Jan 2026 · Remote`
-- Designed and shipped **13+ responsive webpages** for a live health-tech platform
-- Integrated secure **online payment functionality** for service transactions
-- Ensured **DPDP Act compliance** across all user data flows
+- Built **13+ responsive webpages** using HTML, CSS, JS & Wix, serving **500+ monthly users**
+- Integrated **PayPal & RazorPay** payment gateways for secure transactions across subscription tiers
+- Executed **on-page SEO** — meta tags, structured data, and page speed optimizations
+- Ensured **DPDP Act compliance** and health data privacy throughout development
+- Conducted cross-platform QA across **5+ devices/browsers**, reducing UI issues by **40%**
 - 🔗 [thyright.com](https://www.thyright.com/)
 
 <br/>
 
 **🌐 Open Source Contributor · GSSoC '25**
 `Aug 2025 – Nov 2025 · Remote`
-- Resolved **12+ UI inconsistencies** on the *Fail-u-Forward* project
-- Improved component responsiveness by **30%** using React & TypeScript
-- Successfully merged **2 pull requests** into production
+- Resolved **12+ UI inconsistencies** across 8 React components, improving responsiveness by **30%**
+- Shipped **2 production-merged PRs**, reducing downstream bug reports by **40%**
+- Collaborated with **50+ contributors** using Git version control and agile code review workflows
 
 ---
 
@@ -220,7 +182,10 @@ const gargi = {
 
 **Pune Institute of Computer Technology (PICT), Pune**
 B.Tech (Hons.) in Information Technology with Minor in Finance
-📊 CGPA: **9.55 / 10** · Sept 2024 – Present
+📊 CGPA: **9.415 / 10** · Sept 2024 – Present
+
+**SevaSadan High School and Junior College, Nagpur**
+Maharashtra State Board, Class XII · Grade: **87.73%** · May 2024
 
 ---
 
