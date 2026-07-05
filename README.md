@@ -10,17 +10,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gargijoshi9)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gargijoshi9/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gargijoshi0902@gmail.com)
-[![Phone](https://img.shields.io/badge/+91%209423402120-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919423402120)
 
 </div>
-
+![Profile Views](https://komarev.com/ghpvc/?username=gargijoshi9&color=6C63FF&style=flat-square)
 ---
 
 ## 👩‍💻 About Me
 
-**IT undergrad at PICT Pune** · CGPA **9.415/10** · Minor in Finance · Pune, India 🇮🇳
+**IT undergrad at PICT Pune** | CGPA **9.415/10** | Minor in Finance | Pune, India 
 
-I build full-stack and AI-integrated products — from React/Node.js backends to RAG pipelines and LLM workflows. My work ships to real users, not just GitHub.
+I build full-stack and AI-integrated products from React/Node.js backends to RAG pipelines and LLM workflows. My work ships to real users, not just GitHub.
 
 🏆 **IEEE TechRush Winner** &nbsp;|&nbsp; 🎖️ **EY Techathon Round 2** &nbsp;|&nbsp; ⭐ **PCCOE Grand Challenge Round 2** &nbsp;|&nbsp; 🌐 **GSSoC '25 Contributor**
 
@@ -28,20 +27,24 @@ I build full-stack and AI-integrated products — from React/Node.js backends to
 
 ---
 
-## 🏆 Achievements
+## 💼 Experience
 
-<div align="center">
+**🏥 Website Developer Intern · Thyright Innovations Pvt. Ltd.**
+`Nov 2025 – Jan 2026 · Remote`
+- Built **13+ responsive webpages** using HTML, CSS, JS & Wix, serving **500+ monthly users**
+- Integrated **PayPal & RazorPay** payment gateways for secure transactions across subscription tiers
+- Executed **on-page SEO**  meta tags, structured data, and page speed optimizations
+- Ensured **DPDP Act compliance** and health data privacy throughout development
+- Conducted cross-platform QA across **5+ devices/browsers**, reducing UI issues by **40%**
+- 🔗 [thyright.com](https://www.thyright.com/)
 
-| 🥇 Achievement | 📌 Details |
-|---|---|
-| 🏆 IEEE TechRush Hackathon | **1st Place** — Won with the Language Learning App, recognised for innovation and execution |
-| 🎖️ EY Techathon Round 2 | **Shortlisted** for Round 2 — AI Loan Sales Chatbot, national-level competition |
-| ⭐ PCCOE Indradhanu Grand Challenge | **Round 2 Shortlisted** — International Grand Challenge, recognised for impactful tech solution design |
-| 🌐 Open Source | **GSSoC '25** Contributor — 2 PRs merged into production |
-| 🎓 Academic Excellence | **9.415 CGPA** — Consistent top performer, IT Department, PICT |
-| 💼 Industry Experience | **Website Developer Intern** — Thyright Innovations, 500+ monthly users |
+<br/>
 
-</div>
+**🌐 Open Source Contributor · GSSoC '25**
+`Aug 2025 – Nov 2025 · Remote`
+- Resolved **12+ UI inconsistencies** across 8 React components, improving responsiveness by **30%**
+- Shipped **2 production-merged PRs**, reducing downstream bug reports by **40%**
+- Collaborated with **50+ contributors** using Git version control and agile code review workflows
 
 ---
 
@@ -56,7 +59,7 @@ I build full-stack and AI-integrated products — from React/Node.js backends to
 
 ---
 
-### 🎬 CineMatch — AI Movie Recommendation System &nbsp; [Live Demo](https://netflix-recommender-project.streamlit.app/)
+### 🎬 CineMatch — AI Movie Recommendation System &nbsp; [Live Demo](https://netfilx-movies-recommender.streamlit.app/)
 
 > Semantic recommendation engine over **4,800+ films** using SentenceTransformers and dense vector embeddings
 > Compressed a **23M+ cell similarity matrix** via BZ2; 3-tier retry logic for zero-downtime poster fetching
@@ -82,7 +85,7 @@ I build full-stack and AI-integrated products — from React/Node.js backends to
 
 ---
 
-### 🧠 LogiBrain — Distribution Supply Management System &nbsp; [GitHub](#)
+### 🧠 LogiBrain — Distribution Supply Management System &nbsp; [GitHub](https://github.com/nudaadeshmukh/LogiBrain)
 
 > Inventory optimization system applying **EOQ & ROP models** across a multi-warehouse distribution network
 > **Dijkstra's algorithm** for optimal route computation between distribution nodes
@@ -91,12 +94,28 @@ I build full-stack and AI-integrated products — from React/Node.js backends to
 
 ---
 
-### 💬 AI Loan Sales Chatbot &nbsp; [GitHub](#) &nbsp; <sub>🎖️ EY Techathon Round 2</sub>
+### 💬 AI Loan Sales Chatbot &nbsp; <sub>🎖️ EY Techathon Round 2 (Private Repository)</sub>
 
 > Conversational AI chatbot automating personal loan sales workflows using **multi-agent architecture**
 > Handles eligibility checks, verification, and approval automation end-to-end
 
 `Python` `LLMs` `Multi-Agent`
+
+---
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥇 Achievement | 📌 Details |
+|---|---|
+| 🏆 IEEE TechRush Hackathon | **1st Place** — Won with Language Learning App, recognized for innovation and execution |
+| 🎖️ EY Techathon Round 2 | **Shortlisted** for Round 2 — AI Loan Sales Chatbot, national-level competition |
+| ⭐ PCCOE Indradhanu Grand Challenge | **Round 2 Shortlisted** — International Grand Challenge, recognized for impactful tech solution design |
+| 🌐 Open Source | **GSSoC '25** Contributor — Codebase optimizations and merged production features |
+| 🎓 Academic Excellence | **9.415 CGPA** — Consistent top performer, IT Department, PICT |
+| 💼 Industry Experience | **Website Developer Intern** — Thyright Innovations, deployed user-facing infrastructure |
+
+</div>
 
 ---
 
@@ -157,35 +176,14 @@ I build full-stack and AI-integrated products — from React/Node.js backends to
 
 ---
 
-## 💼 Experience
-
-**🏥 Website Developer Intern · Thyright Innovations Pvt. Ltd.**
-`Nov 2025 – Jan 2026 · Remote`
-- Built **13+ responsive webpages** using HTML, CSS, JS & Wix, serving **500+ monthly users**
-- Integrated **PayPal & RazorPay** payment gateways for secure transactions across subscription tiers
-- Executed **on-page SEO** — meta tags, structured data, and page speed optimizations
-- Ensured **DPDP Act compliance** and health data privacy throughout development
-- Conducted cross-platform QA across **5+ devices/browsers**, reducing UI issues by **40%**
-- 🔗 [thyright.com](https://www.thyright.com/)
-
-<br/>
-
-**🌐 Open Source Contributor · GSSoC '25**
-`Aug 2025 – Nov 2025 · Remote`
-- Resolved **12+ UI inconsistencies** across 8 React components, improving responsiveness by **30%**
-- Shipped **2 production-merged PRs**, reducing downstream bug reports by **40%**
-- Collaborated with **50+ contributors** using Git version control and agile code review workflows
-
----
-
 ## 🎓 Education
 
-**Pune Institute of Computer Technology (PICT), Pune**
-B.Tech (Hons.) in Information Technology with Minor in Finance
-📊 CGPA: **9.415 / 10** · Sept 2024 – Present
+**Pune Institute of Computer Technology (PICT), Pune**  
+B.Tech (Hons.) in Information Technology with Minor in Finance  
+📊 CGPA: **9.415 / 10** · Sept 2024 – Present  
 
-**SevaSadan High School and Junior College, Nagpur**
-Maharashtra State Board, Class XII · Grade: **87.73%** · May 2024
+**SevaSadan High School and Junior College, Nagpur**  
+Maharashtra State Board, Class XII · Grade: **87.73%** · May 2024  
 
 ---
 
