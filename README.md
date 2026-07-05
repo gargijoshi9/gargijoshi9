@@ -12,7 +12,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gargijoshi0902@gmail.com)
 
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=gargijoshi9&color=6C63FF&style=flat-square)
 ---
 
 ## 👩‍💻 About Me
