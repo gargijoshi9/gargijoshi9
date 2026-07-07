@@ -15,13 +15,13 @@
 
 ## 👩‍💻 About Me
 
-**IT undergrad at PICT Pune** | CGPA **9.415/10** | Minor in Finance | Pune, India 
-
-I build full-stack and AI-integrated products from React/Node.js backends to RAG pipelines and LLM workflows. My work ships to real users, not just GitHub.
-
-🏆 **IEEE TechRush Winner** &nbsp;|&nbsp; 🎖️ **EY Techathon Round 2** &nbsp;|&nbsp; ⭐ **PCCOE Grand Challenge Round 2** &nbsp;|&nbsp; 🌐 **GSSoC '25 Contributor**
-
-**Currently open to:** Internships in software development & AI engineering
+- 🎓 **B.Tech IT + Minor in Finance** · PICT Pune · CGPA **9.415/10**
+- 💻 Full-stack developer building **AI-integrated products** with React.js, Node.js, Python, RAG pipelines & LLM workflows
+- 🚀 Shipped production systems — **RAG-powered SaaS**, **semantic recommendation engine**, **blockchain + ML emission tracker**
+- 🌐 **GSSoC '25** contributor — resolved 12+ UI issues, improved responsiveness by 30%, merged 2 PRs into production
+- 💼 **Intern @ Thyright Innovations** — built 13+ webpages serving 500+ users, integrated PayPal & RazorPay
+- 🏆 **IEEE TechRush 1st Place** · 🎖️ **EY Techathon Round 2** · ⭐ **PCCOE Grand Challenge Round 2**
+- 📬 Open to internships in **software development** & **AI engineering**
 
 ---
 
