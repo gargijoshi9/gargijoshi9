@@ -1,51 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=200&section=header&text=Gargi%20Ankur%20Joshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML%20Developer%20%7C%20IT%20Undergrad%20%40%20PICT%20Pune&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D1B1F,50:6C1F35,100:8B2942&height=220&section=header&text=Gargi%20Joshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML%20Developer%20%7C%20IT%20Undergrad%20%40%20PICT%20Pune&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-powered+products+that+actually+ship+%F0%9F%9A%80;React+%7C+Node.js+%7C+Python+%7C+LLMs+%7C+RAG;IEEE+Hackathon+Winner+%F0%9F%8F%86;EY+Techathon+Round+2+Shortlisted+%E2%9C%A8;9.415+CGPA+%40+PICT+Pune)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C9819A&center=true&vCenter=true&random=false&width=700&lines=Building+AI-powered+products+that+actually+ship;React+%7C+Node.js+%7C+Python+%7C+LLMs+%7C+RAG;IEEE+Hackathon+Winner;EY+Techathon+Round+2+Shortlisted;9.42+CGPA+%40+PICT+Pune)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gargi-joshi-a9246b331)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F1B1F?style=for-the-badge&logo=vercel&logoColor=white)](https://gargijoshi9.github.io/myportfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gargijoshi9)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gargijoshi0902@gmail.com)
 
-</div>
-
-## 👩‍💻 About Me
-
-- 🎓 **B.Tech IT + Minor in Finance** · PICT Pune · CGPA **9.415/10**
-- 💻 Full-stack developer building **AI-integrated products** with React.js, Node.js, Python, RAG pipelines & LLM workflows
-- 🚀 Shipped production systems — **RAG-powered SaaS**, **semantic recommendation engine**, **blockchain + ML emission tracker**
-- 🌐 **GSSoC '25** contributor — resolved 12+ UI issues, improved responsiveness by 30%, merged 2 PRs into production
-- 💼 **Intern @ Thyright Innovations** — built 13+ webpages serving 500+ users, integrated PayPal & RazorPay
-- 🏆 **IEEE TechRush 1st Place** · 🎖️ **EY Techathon Round 2** · ⭐ **PCCOE Grand Challenge Round 2**
-- 📬 Open to internships in **software development** & **AI engineering**
-
----
-
-## 💼 Experience
-
-**🏥 Website Developer Intern · Thyright Innovations Pvt. Ltd.**
-`Nov 2025 – Jan 2026 · Remote`
-- Built **13+ responsive webpages** using HTML, CSS, JS & Wix, serving **500+ monthly users**
-- Integrated **PayPal & RazorPay** payment gateways for secure transactions across subscription tiers
-- Executed **on-page SEO**  meta tags, structured data, and page speed optimizations
-- Ensured **DPDP Act compliance** and health data privacy throughout development
-- Conducted cross-platform QA across **5+ devices/browsers**, reducing UI issues by **40%**
-- 🔗 [thyright.com](https://www.thyright.com/)
-
 <br/>
 
-**🌐 Open Source Contributor · GSSoC '25**
-`Aug 2025 – Nov 2025 · Remote`
-- Resolved **12+ UI inconsistencies** across 8 React components, improving responsiveness by **30%**
-- Shipped **2 production-merged PRs**, reducing downstream bug reports by **40%**
-- Collaborated with **50+ contributors** using Git version control and agile code review workflows
+![Profile Views](https://komarev.com/ghpvc/?username=gargijoshi9&color=6C63FF&style=flat-square)
+</div>
+
+## 📌 Summary
+
+Pre-Final year student at PICT Pune with a minor in Finance, maintaining a **9.42 CGPA**. As a Full-Stack and AI/ML developer, I build and deploy production-grade software, specializing in RAG architectures, multi-agent LLM workflows, and responsive web systems. 
+
+* **Active Core:** Shipped scalable AI SaaS tools, optimization engines, and secure enterprise trackers.
+* **Open Source:** Contributed production-merged features to GSSoC '25, optimizing frontend architectures.
+* **Target:** Actively seeking SWE and AI Engineering internships where performance and clean architecture matter.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience
+
+### Website Developer Intern · Thyright Innovations Pvt. Ltd.
+*Nov 2025 – Jan 2026 | Remote*
+* Designed and deployed **13+ responsive webpages**, scaling monthly user traffic to **500+ unique visitors**.
+* Engineered secure transaction infrastructures by integrating **PayPal & RazorPay** multi-tier gateways.
+* Implemented end-to-end **on-page SEO** (structured data, meta-tagging) and strictly enforced **DPDP Act compliance** for user health-data privacy.
+* Reduced critical cross-platform UI anomalies by **40%** via comprehensive multi-device QA testing.
+* **Link:** [thyright.com](https://www.thyright.com/)
+
+### Open Source Contributor · GSSoC '25
+*Aug 2025 – Nov 2025 | Remote*
+* Refactored **8 core React components**, resolving 12+ critical UI inconsistencies and accelerating overall rendering responsiveness by **30%**.
+* Successfully shipped **2 major production-merged PRs**, cutting subsequent downstream bug reports by **40%**.
+* Collaborative version control within an Agile pipeline featuring 50+ engineers.
+
+---
+
+## 🛠️ Technical Stack
 
 <div align="center">
 
@@ -72,7 +71,7 @@
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&numpyColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Databases & Tools**
@@ -87,110 +86,74 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Key Projects
 
-### 🤖 MSME-360 — AI-Powered Business Automation SaaS &nbsp; [Live Demo](https://pbl-project-7.onrender.com/)
+### MSME-360 — AI Business Automation SaaS · [Live Demo](https://pbl-project-7.onrender.com/)
+> **Stack:** React.js, TypeScript, Node.js, MongoDB, Groq API, ChromaDB, Express.js
+* Designed a RAG architecture leveraging **Groq LLMs** and **ChromaDB vector embeddings** for real-time business contextualization.
+* Engineered an automated **OCR → LLM backend pipeline** converting raw invoices and receipts into structured database objects.
 
-> RAG-based AI assistant using **Groq LLMs** and **ChromaDB** vector embeddings for contextual business insights
-> End-to-end **OCR → LLM → structured data** pipeline for automated invoice and receipt processing
+### CineMatch — Semantic Movie Discovery Engine · [Live Demo](https://netfilx-movies-recommender.streamlit.app/)
+> **Stack:** Python, SentenceTransformers, Scikit-learn, Streamlit, OMDb API
+* Built a semantic discovery engine querying **4,800+ titles** via high-dimensional SentenceTransformers dense embeddings.
+* Compressed a heavy **23M+ cell similarity matrix** using BZ2 compression; deployed a 3-tier fault-tolerant API retry strategy for live data fetching.
 
-`React.js` `TypeScript` `Node.js` `MongoDB` `Groq API` `ChromaDB` `Express.js`
+### Carbon Footprint Tracker — Enterprise Compliance Hub · [GitHub](https://github.com/orgs/PCCOE-Carbon-Footprint/repositories)
+> **Stack:** React.js, Next.js, Node.js, Cosmos DB, Isolation Forest (ML), Blockchain
+* Created a combined Blockchain and ML architecture for tamper-proof industrial carbon tracking and audit mapping.
+* Integrated an **Isolation Forest anomaly detection model** to catch non-compliance spikes automatically.
 
----
+### LogiBrain — Multi-Node Supply Chain Engine · [GitHub](https://github.com/nudaadeshmukh/LogiBrain)
+> **Stack:** Python, Flask, SQLite, Network Algorithms
+* Developed a multi-warehouse optimization ecosystem utilizing **Economic Order Quantity (EOQ)** and **Reorder Point (ROP)** algorithms.
+* Implemented **Dijkstra’s routing algorithm** to determine lowest-cost paths between active distribution hubs.
 
-### 🎬 CineMatch — AI Movie Recommendation System &nbsp; [Live Demo](https://netfilx-movies-recommender.streamlit.app/)
-
-> Semantic recommendation engine over **4,800+ films** using SentenceTransformers and dense vector embeddings
-> Compressed a **23M+ cell similarity matrix** via BZ2; 3-tier retry logic for zero-downtime poster fetching
-
-`Python` `SentenceTransformers` `Scikit-learn` `Streamlit` `OMDb API`
-
----
-
-### 🌍 Carbon Emission Tracking System &nbsp; [GitHub](https://github.com/orgs/PCCOE-Carbon-Footprint/repositories)
-
-> Blockchain + ML platform for industrial carbon emission **monitoring, anomaly detection & compliance**
-> Isolation Forest for anomaly detection; blockchain-backed secure record integrity for enterprise and government use
-
-`React.js` `Next.js` `Node.js` `Cosmos DB` `Isolation Forest` `Blockchain` `ML`
-
----
-### 🟠 ORANGE — Language Learning Website &nbsp; 🏆 IEEE TechRush 1st Place &nbsp; [Live](https://starlit-palmier-fbc80f.netlify.app/)
-
-> Gamified bite-sized lessons with progress tracking and mascot-driven UX
-> Built and shipped under competitive hackathon time constraints
-
-`HTML` `CSS` `JavaScript`
+### AI Loan Sales Bot · *EY Techathon National Round 2*
+> **Stack:** Python, Private LLM Frameworks, Multi-Agent Architecture
+* Engineered a collaborative **multi-agent workflow** to automate personal loan qualification funnels.
+* Programmed hands-free validation handling instant eligibility checks, data parsing, and routing protocols.
 
 ---
 
-### 🧠 LogiBrain — Distribution Supply Management System &nbsp; [GitHub](https://github.com/nudaadeshmukh/LogiBrain)
+## 🏆 Featured Metrics & Milestones
 
-> Inventory optimization system applying **EOQ & ROP models** across a multi-warehouse distribution network
-> **Dijkstra's algorithm** for optimal route computation between distribution nodes
-
-`Python` `Flask` `SQLite` `Dijkstra's Algorithm` `DSA`
-
----
-
-### 💬 AI Loan Sales Chatbot &nbsp; <sub>🎖️ EY Techathon Round 2 (Private Repository)</sub>
-
-> Conversational AI chatbot automating personal loan sales workflows using **multi-agent architecture**
-> Handles eligibility checks, verification, and approval automation end-to-end
-
-`Python` `LLMs` `Multi-Agent`
-
----
-## 🏆 Achievements
-
-<div align="center">
-
-| 🥇 Achievement | 📌 Details |
+| Target Metric | Recognition / Project Context |
 |---|---|
-| 🏆 IEEE TechRush Hackathon | **1st Place** — Won with Language Learning App, recognized for innovation and execution |
-| 🎖️ EY Techathon Round 2 | **Shortlisted** for Round 2 — AI Loan Sales Chatbot, national-level competition |
-| ⭐ PCCOE Indradhanu Grand Challenge | **Round 2 Shortlisted** — International Grand Challenge, recognized for impactful tech solution design |
-| 🌐 Open Source | **GSSoC '25** Contributor — Codebase optimizations and merged production features |
-| 🎓 Academic Excellence | **9.415 CGPA** — Consistent top performer, IT Department, PICT |
-| 💼 Industry Experience | **Website Developer Intern** — Thyright Innovations, deployed user-facing infrastructure |
-
-</div>
+| **1st Place** | IEEE TechRush Hackathon Winner (Language Learning Engine) |
+| **National Shortlist** | EY Techathon Round 2 Qualifier (Autonomous Agent Bot) |
+| **Global Shortlist** | PCCOE Indradhanu Grand Challenge Round 2 Qualifier |
+| **9.415 / 10** | Department of Information Technology, PICT Pune |
 
 ---
 
-
-## 📊 GitHub Stats
+## 📊 Developer Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gargijoshi9&show_icons=true&theme=tokyonight&border_color=6C63FF&hide_border=false&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargijoshi9&layout=compact&theme=tokyonight&border_color=6C63FF&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gargijoshi9&show_icons=true&theme=tokyonight&border_color=6C63FF&hide_border=false&count_private=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargijoshi9&layout=compact&theme=tokyonight&border_color=6C63FF&hide_border=false" height="180px"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargijoshi9&theme=tokyonight&border=6C63FF" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargijoshi9&theme=tokyonight&border=6C63FF" height="180px"/>
 
 </div>
 
----
 
-## 🎓 Education
+## 🎓 Academic Profiles
 
 **Pune Institute of Computer Technology (PICT), Pune**  
-B.Tech (Hons.) in Information Technology with Minor in Finance  
-📊 CGPA: **9.415 / 10** · Sept 2024 – Present  
-
-**SevaSadan High School and Junior College, Nagpur**  
-Maharashtra State Board, Class XII · Grade: **87.73%** · May 2024  
+*B.Tech (Hons.) in Information Technology (Minor in Finance)*  
+* **CGPA:** 9.42 / 10  
+* **Timeline:** Sept 2024 – Present  
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,100:6C63FF&height=120&section=footer" width="100%"/>
-
-*"Code. Design. Ship. Repeat."*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=gargijoshi9&color=6C63FF&style=flat-square)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D1B1F,50:6C1F35,100:8B2942&height=120&section=footer" width="100%"/>
+
 
 </div>
