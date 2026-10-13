@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D1B1F,50:6C1F35,100:8B2942&height=220&section=header&text=Gargi%20Joshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20IT%20Undergrad%20%40%20PICT%20Pune&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D1B1F,50:6C1F35,100:8B2942&height=220&section=header&text=Gargi%20Joshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%7C%20Full%20Stack%20%7C%20IT%20Undergrad%20%40%20PICT%20Pune&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C9819A&center=true&vCenter=true&random=false&width=700&lines=Turning+data+into+decisions%2C+not+just+dashboards;Python+%7C+SQL+%7C+XGBoost+%7C+SHAP+%7C+RAG;Full-Stack+when+the+problem+needs+it;IEEE+Hackathon+Winner;9.42+CGPA+%40+PICT+Pune)](https://git.io/typing-svg)
 
@@ -18,33 +18,31 @@
 
 ##  Summary
 
-Pre-final year student at PICT Pune with a minor in Finance, maintaining a **9.42 CGPA**. I work at the intersection of **data science, machine learning, and applied engineering** — turning messy, real-world data into models and insights that actually get used, and building the full-stack systems to ship them when needed.
-
-* **Focus:** Feature engineering, model interpretability (SHAP), imbalanced classification, RAG pipelines, and data-driven system design.
-* **Research:** Team Lead on a Green AI research project at AWS Cloud Club PICT — workload prediction, carbon-aware scheduling, and inference optimization.
-* **Target:** Actively seeking Data Analyst / AI-ML / Data Science internships where I can work close to real data and real decisions.
+Pre-final year IT student at PICT Pune (Minor in Finance, **9.42 CGPA**). I turn messy, real-world data into models and insights people can actually use, and I build the full-stack systems to ship them when needed.
+#### Open for Internship
 
 ---
 
 ##  Professional Experience
 
 ### Research Intern & Team Lead · AWS Cloud Club, PICT Pune
-*Aug 2026 – Present*
-* Leading a **6-member research team** on Green AI for Sustainable Cloud Computing — workload prediction, carbon-aware scheduling, and energy-efficient inference.
-* Built a working **baseline workload prediction model** and ran **quantization experiments** benchmarking latency and energy use of optimized vs. baseline inference.
-* Designing an evaluation framework comparing optimized vs. naive execution using energy consumption and CO₂e reduction metrics.
+*Aug 2026 – Oct 2026*
+* Led a **6-member research team** on AI-driven cloud optimization to reduce energy consumption and carbon emissions.
+* Built a workload forecasting pipeline comparing **3 models**; the Differenced Ridge model cut error (MAE) by **10.9%** against the baseline.
+* Implemented a rule-based **scheduling prototype** that shifts eligible workloads to lower-carbon time windows.
+* Tested FP32 vs. INT8 quantization, reaching **72.34% lower memory usage** and **42.5% lower latency** on the tested model.
 
 ### Website Developer Intern · Thyright Innovations Pvt. Ltd.
 *Nov 2025 – Jan 2026 | Remote*
-* Designed and deployed **13+ responsive webpages**, scaling monthly user traffic to **500+ unique visitors**.
-* Engineered secure transaction infrastructure integrating **PayPal & Razorpay** payment gateways.
-* Implemented on-page SEO and enforced **DPDP Act compliance** for sensitive user data handling.
-* Reduced cross-platform UI defects by **40%** via multi-device QA testing.
+* Built **13+ responsive webpages** from founder requirements, serving **500+ monthly users**.
+* Integrated **PayPal & Razorpay** payments to support online transactions.
+* Improved on-page SEO and applied **DPDP Act**-compliant data handling.
+* Cut UI defects by **40%** through cross-browser testing on 5+ devices.
 
 ### Open Source Contributor · GSSoC '25
 *Aug 2025 – Nov 2025 | Remote*
-* Fixed **12+ UI inconsistencies** across 8 React components, improving responsiveness by **40%**.
-* Shipped **2 production-merged PRs**, cutting downstream bug reports by **40%**.
+* Fixed **12+ UI inconsistencies** across 8 React components to improve responsiveness.
+* Got **2 pull requests merged** into production repositories.
 
 ---
 
@@ -73,10 +71,9 @@ Pre-final year student at PICT Pune with a minor in Finance, maintaining a **9.4
 <p>
 <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=for-the-badge&logo=chroma&logoColor=white"/>
 </p>
 
-<!-- <sub>Also: Vector Embeddings · Prompt Engineering</sub> -->
+<!-- <sub>Also: MongoDB Vector Search · Tesseract OCR · Prompt Engineering</sub> -->
 
 <br/>
 
@@ -112,27 +109,30 @@ Pre-final year student at PICT Pune with a minor in Finance, maintaining a **9.4
 
 ### MuleRadar — AI Mule Detection Platform · [GitHub](https://github.com/gargijoshi9/BOI) · *BOI 2026 Hackathon Finalist, Top 31 Nationwide*
 > **Stack:** Python, XGBoost, LightGBM, CatBoost, Isolation Forest, SHAP, FastAPI, React
-* Built a fraud detection ensemble to flag money mule accounts from highly imbalanced transaction data.
-* Engineered domain-specific features and reduced **3,896 raw features to 94** via a 4-stage feature selection pipeline.
-* Achieved **0.98 ROC-AUC**, **0.80 PR-AUC**, and **71% F1-score** on the mule class.
-* Applied **SHAP-based explainability** to make predictions interpretable for compliance stakeholders.
+* Built a fraud detection system with a **4-member team** to flag money mule accounts; only **0.89%** of the 9,082 accounts were mules.
+* Cleaned the raw data, removed leaked columns, and cut **3,896 features to 72** with a 4-stage feature selection pipeline.
+* Combined XGBoost, LightGBM, CatBoost, and Isolation Forest into an ensemble, reaching **0.98 ROC-AUC**, **0.80 PR-AUC**, and **71% F1** on the mule class.
+* Used **SHAP** to explain each flagged account, and built an **AI investigator copilot** that turns those explanations into audit-ready suspicious activity reports.
 
 ### MSME-360 — AI Business Automation SaaS · [Live Demo](https://pbl-project-7.onrender.com/)
-> **Stack:** React, TypeScript, Node.js, MongoDB, Groq API, ChromaDB
-* Built a **RAG-based AI assistant** using Groq LLMs and vector embeddings to extract structured insights from unstructured business documents.
-* Designed a data pipeline connecting document ingestion, AI inference, and MongoDB storage for real-time financial data extraction.
-* Deployed a production SaaS letting SME clients query and process documents through a live chat interface.
+> **Stack:** React, TypeScript, Node.js, MongoDB, Groq API, Tesseract.js
+* Built an AI platform that brings invoices, inventory, and finances into one dashboard for small businesses, deployed live on Render.
+* Added a **RAG chat** on MongoDB Vector Search and Groq LLMs, so owners can ask questions about their own documents.
+* Automated invoice and receipt intake with **OCR (Tesseract.js)** and LLM classification, flagging duplicate uploads.
+* Synced records to **Google Sheets** for SME clients.
 
 ### Nexus Ops — Multi-Tenant Enterprise Portal · [GitHub](https://github.com/gargijoshi9/unified-workspace) · [Live Demo](https://unified-workspace.vercel.app/)
 > **Stack:** Next.js, PostgreSQL, Prisma, Redis, NextAuth
-* Solo-built a multi-tenant portal with **5-role RBAC** and BOLA protection, securing cross-tenant data access.
-* Implemented Redis-backed session versioning for instant token revocation.
-* Validated correctness with **7 automated test suites** covering authorization, sessions, and audit logging.
+* Solo-built a portal where companies manage support tickets and code reviews, with **25+ API endpoints**.
+* Designed **5-role RBAC** with tenant-scoped queries, so no company can see another's data (**BOLA** protection).
+* Used **Redis** session versioning so one logout signs a user out of every device instantly.
+* Verified security with **7 automated test suites** covering tenant isolation, roles, token revocation, and audit logging.
 
 ### CineMatch — Semantic Movie Discovery Engine · [Live Demo](https://netfilx-movies-recommender.streamlit.app/)
 > **Stack:** Python, SentenceTransformers, Scikit-learn, Pandas, Streamlit
-* Built a semantic recommendation engine over **4,800+ titles** using dense vector embeddings and similarity analysis.
-* Compressed a **23M+ cell similarity matrix** via BZ2 to optimize memory and deployment efficiency.
+* Built a movie recommender over **4,800+ titles** that matches on plot and theme, using SentenceTransformers embeddings and cosine similarity.
+* Compressed a **23M+ cell similarity matrix** with BZ2 so the app fits free-tier cloud memory limits.
+* Added a **3-level fallback** for OMDb API rate limits, so posters keep loading instead of the app failing.
 
 ---
 
