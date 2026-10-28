@@ -27,10 +27,10 @@ Pre-final year IT student at PICT Pune (Minor in Finance, **9.42 CGPA**). I turn
 
 ### Research Intern & Team Lead · AWS Cloud Club, PICT Pune
 *Aug 2026 – Oct 2026*
-* Led a **6-member research team** on AI-driven cloud optimization to reduce energy consumption and carbon emissions.
+* Led a **6-member research team** building a carbon-aware cloud scheduling system on **140,000+ Azure VM trace records**.
 * Built a workload forecasting pipeline comparing **3 models**; the Differenced Ridge model cut error (MAE) by **10.9%** against the baseline.
-* Implemented a rule-based **scheduling prototype** that shifts eligible workloads to lower-carbon time windows.
-* Tested FP32 vs. INT8 quantization, reaching **72.34% lower memory usage** and **42.5% lower latency** on the tested model.
+* Implemented a rule-based **scheduling prototype** that shifted **21 of 484 workloads** into lower-carbon time windows.
+* Applied INT8 quantization to a 75K-parameter PyTorch model, reaching **72.34% lower memory usage** and **42.5% lower latency**.
 
 ### Website Developer Intern · Thyright Innovations Pvt. Ltd.
 *Nov 2025 – Jan 2026 | Remote*
@@ -73,7 +73,7 @@ Pre-final year IT student at PICT Pune (Minor in Finance, **9.42 CGPA**). I turn
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
 </p>
 
-<!-- <sub>Also: MongoDB Vector Search · Tesseract OCR · Prompt Engineering</sub> -->
+<!-- <sub>Also: MongoDB Vector Search · Tesseract OCR · Prompt Engineering · Gemini API · Qiskit</sub> -->
 
 <br/>
 
@@ -110,9 +110,30 @@ Pre-final year IT student at PICT Pune (Minor in Finance, **9.42 CGPA**). I turn
 ### MuleRadar — AI Mule Detection Platform · [GitHub](https://github.com/gargijoshi9/BOI) · *BOI 2026 Hackathon Finalist, Top 31 Nationwide*
 > **Stack:** Python, XGBoost, LightGBM, CatBoost, Isolation Forest, SHAP, FastAPI, React
 * Built a fraud detection system with a **4-member team** to flag money mule accounts; only **0.89%** of the 9,082 accounts were mules.
-* Cleaned the raw data, removed leaked columns, and cut **3,896 features to 72** with a 4-stage feature selection pipeline.
-* Combined XGBoost, LightGBM, CatBoost, and Isolation Forest into an ensemble, reaching **0.98 ROC-AUC**, **0.80 PR-AUC**, and **71% F1** on the mule class.
+* Cleaned the raw data, removed leaked columns, and cut **3,861 features to 72** with a 4-stage feature selection pipeline.
+* Combined XGBoost, LightGBM, CatBoost, and Isolation Forest into an ensemble, reaching **0.98 ROC-AUC** and **0.80 PR-AUC**.
 * Used **SHAP** to explain each flagged account, and built an **AI investigator copilot** that turns those explanations into audit-ready suspicious activity reports.
+
+### Nexus Ops — Multi-Tenant Enterprise Portal · [GitHub](https://github.com/gargijoshi9/unified-workspace) · [Live Demo](https://unified-workspace.vercel.app/)
+> **Stack:** Next.js, TypeScript, PostgreSQL, Prisma, Redis, NextAuth
+* Solo-built a portal where companies manage support tickets and code reviews, with **25+ API endpoints**.
+* Designed **5-role RBAC** with tenant-scoped queries, so no company can see another's data (**BOLA** protection).
+* Used **Redis** session versioning so one logout signs a user out of every device instantly.
+* Added an append-only audit log and **10 automated test suites (172 assertions)** covering tenant isolation, roles, and session security.
+
+### QuantumLab — Quantum Learning Platform · [GitHub](https://github.com/DJ-007-WEB/Corkscrew_SIH26-QuantumLab) · *SIH 2026*
+> **Stack:** Python, FastAPI, React, TypeScript, Qiskit, Three.js, LLM
+* Built a full-stack quantum learning platform with **Qiskit Aer (up to 8 qubits)**.
+* Created interactive **Three.js Bloch Sphere and Q-Sphere** visualizers with configurable shot sampling (128–8192).
+* Designed an **AI tutor** where Qiskit computes verified circuit facts before the LLM answers, with an offline fallback.
+* Added an adaptive assessment engine (IRT + BKT), JWT role-based login, and an instructor dashboard.
+
+### ExoScope — Exoplanet Transit Detection & Classification · [GitHub](https://github.com/gargijoshi9/exoplanet-detection)
+> **Stack:** Python, LightGBM, Scikit-learn, Pandas, NumPy, Lightkurve, Streamlit
+* Built an end-to-end ML pipeline to classify TESS star light curves as transits, eclipsing binaries, or other variability.
+* Preprocessed **158 light curves** (sigma-clipping, detrending) and engineered statistical and transit features.
+* Compared Random Forest and LightGBM with 5-fold CV; final model reached **73% held-out accuracy** on 3 classes.
+* Ran Box Least Squares transit searches and built a Streamlit dashboard for analysis.
 
 ### MSME-360 — AI Business Automation SaaS · [Live Demo](https://pbl-project-7.onrender.com/)
 > **Stack:** React, TypeScript, Node.js, MongoDB, Groq API, Tesseract.js
@@ -121,18 +142,19 @@ Pre-final year IT student at PICT Pune (Minor in Finance, **9.42 CGPA**). I turn
 * Automated invoice and receipt intake with **OCR (Tesseract.js)** and LLM classification, flagging duplicate uploads.
 * Synced records to **Google Sheets** for SME clients.
 
-### Nexus Ops — Multi-Tenant Enterprise Portal · [GitHub](https://github.com/gargijoshi9/unified-workspace) · [Live Demo](https://unified-workspace.vercel.app/)
-> **Stack:** Next.js, PostgreSQL, Prisma, Redis, NextAuth
-* Solo-built a portal where companies manage support tickets and code reviews, with **25+ API endpoints**.
-* Designed **5-role RBAC** with tenant-scoped queries, so no company can see another's data (**BOLA** protection).
-* Used **Redis** session versioning so one logout signs a user out of every device instantly.
-* Verified security with **7 automated test suites** covering tenant isolation, roles, token revocation, and audit logging.
+### MetricWatch — Business Metric Anomaly Monitoring · [GitHub](https://github.com/gargijoshi9/metricwatch)
+> **Stack:** Python, pandas, NumPy, LLM API, pytest
+* Built a pipeline that cleans business CSV/Excel data and flags unusual metric changes.
+* Detected anomalies with a **rolling 7-day baseline and z-scores**, with % change and configurable severity levels.
+* Linked co-occurring anomalies (traffic, conversion, revenue) into **one combined alert**.
+* Generated plain-language alert summaries with an LLM, backed by a rule-based fallback and email delivery.
 
 ### CineMatch — Semantic Movie Discovery Engine · [Live Demo](https://netfilx-movies-recommender.streamlit.app/)
 > **Stack:** Python, SentenceTransformers, Scikit-learn, Pandas, Streamlit
 * Built a movie recommender over **4,800+ titles** that matches on plot and theme, using SentenceTransformers embeddings and cosine similarity.
 * Compressed a **23M+ cell similarity matrix** with BZ2 so the app fits free-tier cloud memory limits.
 * Added a **3-level fallback** for OMDb API rate limits, so posters keep loading instead of the app failing.
+
 
 ---
 
