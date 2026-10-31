@@ -1,17 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D1B1F,50:6C1F35,100:8B2942&height=220&section=header&text=Gargi%20Joshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%7C%20Full%20Stack%20%7C%20IT%20Undergrad%20%40%20PICT%20Pune&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D1B1F,50:6C1F35,100:8B2942&height=220&section=header&text=Gargi%20Joshi&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Curious%20mind.%20Big%20dreams.%20Always%20learning.&descAlignY=58&descSize=16&descColor=FFF1F5&animation=fadeIn" width="100%"/>
 
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C9819A&center=true&vCenter=true&random=false&width=700&lines=Turning+data+into+decisions%2C+not+just+dashboards;Python+%7C+SQL+%7C+XGBoost+%7C+SHAP+%7C+RAG;Full-Stack+when+the+problem+needs+it;IEEE+Hackathon+Winner;9.42+CGPA+%40+PICT+Pune)](https://git.io/typing-svg)-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C9819A&center=true&vCenter=true&random=false&width=800&lines=Building+AI+that+turns+data+into+decisions;Software+Engineering+%7C+Machine+Learning+%7C+Intelligent+Systems;Exploring+LLMs%2C+RAG+%26+Intelligent+Systems;Developing+Scalable+Full-Stack+Applications;AI%2FML+Engineer+%7C+Software+Engineer;Hackathon+Winner+%7C+PICT+Pune)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gargi-joshi-a9246b331)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7F1B1F?style=for-the-badge&logo=vercel&logoColor=white)](https://gargijoshi9.github.io/myportfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gargijoshi9)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gargijoshi0902@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=gargijoshi9&color=6C63FF&style=flat-square)
 </div>
 
 ##  Summary
@@ -189,6 +186,10 @@ Pre-final year IT student at PICT Pune (Minor in Finance, **9.42 CGPA**). I turn
 * **Timeline:** Sept 2024 – Present
 
 ---
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=gargijoshi9&color=6C63FF&style=flat-square)
+
 
 <div align="center">
 
