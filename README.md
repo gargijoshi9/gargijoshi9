@@ -5,9 +5,9 @@
   src="./dist/pet.svg"
   width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Gargi%20Joshi&fontSize=56&fontColor=7A1F3D&fontAlignY=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Gargi%20Joshi&fontSize=56&fontColor=C08095&fontAlignY=50&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=7A1F3D&center=true&vCenter=true&random=false&width=800&lines=Building+AI+that+turns+data+into+decisions;Software+Engineering+%7C+Machine+Learning+%7C+Intelligent+Systems;Exploring+LLMs%2C+RAG+%26+Intelligent+Systems;Developing+Scalable+Full-Stack+Applications;AI%2FML+Engineer+%7C+Software+Engineer;Hackathon+Winner+%7C+PICT+Pune)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C08095&center=true&vCenter=true&random=false&width=800&lines=Building+AI+that+turns+data+into+decisions;Software+Engineering+%7C+Machine+Learning+%7C+Intelligent+Systems;Exploring+LLMs%2C+RAG+%26+Intelligent+Systems;Developing+Scalable+Full-Stack+Applications;AI%2FML+Engineer+%7C+Software+Engineer;Hackathon+Winner+%7C+PICT+Pune)](https://git.io/typing-svg)
 
 
 
@@ -23,7 +23,7 @@
 
 ## Summary
 
-Pre-final year B.Tech IT student at PICT Pune with a Minor in Finance and a **9.42 CGPA**. I focus on AI/ML and software engineering. I turn messy, real-world data into models and insights people can actually use, and I build the full-stack systems to ship them when needed.
+Pre-final-year B.Tech IT student at PICT Pune, pursuing a Minor in Finance with a **9.42 CGPA**. Focused on AI/ML and software engineering, I turn complex real-world data into useful models and insights, then build the full-stack systems that bring them into practice.
 
 <img src="https://img.shields.io/badge/Open%20for%20Internship-2EA043?style=for-the-badge&labelColor=1A0D10"/> 
 
@@ -32,24 +32,23 @@ Pre-final year B.Tech IT student at PICT Pune with a Minor in Finance and a **9.
 
 ### Research Intern & Team Lead · AWS Cloud Club, PICT Pune
 *Aug 2026 – Oct 2026*
-* Led a **6-member research team** building a carbon-aware cloud scheduling system on **140,000+ Azure VM trace records**.
-* Built a workload forecasting pipeline comparing **3 models**; the Differenced Ridge model cut error (MAE) by **10.9%** against the baseline.
-* Implemented a rule-based **scheduling prototype** that shifted **21 of 484 workloads** into lower-carbon time windows.
-* Applied INT8 quantization to a 75K-parameter PyTorch model, reaching **72.34% lower memory usage** and **42.5% lower latency**.
+* Led a **6-member research team** developing a carbon-aware cloud scheduler using **140,000+ Azure VM trace records**.
+* Built and compared **3 workload-forecasting models**; Differenced Ridge reduced MAE by **10.9%** versus the baseline.
+* Prototyped a rule-based scheduler that shifted **21 of 484 workloads** into lower-carbon time windows.
+* Quantized a **75K-parameter PyTorch model** to INT8, reducing memory usage by **72.34%** and latency by **42.5%**.
 
 ### Website Developer Intern · Thyright Innovations Pvt. Ltd.
 *Nov 2025 – Jan 2026 | Remote*
-* Built **13+ responsive webpages** from founder requirements, serving **500+ monthly users**.
-* Integrated **PayPal & Razorpay** payments to support online transactions.
-* Improved on-page SEO and applied **DPDP Act**-compliant data handling.
-* Cut UI defects by **40%** through cross-browser testing on 5+ devices.
+* Built **13+ responsive webpages** from founder requirements for a site serving **500+ monthly users**.
+* Integrated **PayPal and Razorpay** to enable online payments.
+* Improved on-page SEO and implemented data handling compliant with the **DPDP Act**.
+* Reduced UI defects by **40%** through cross-browser testing across **5+ devices**.
 
 ### Open Source Contributor · GSSoC '25
 *Aug 2025 – Nov 2025 | Remote*
-* Fixed **12+ UI inconsistencies** across 8 React components to improve responsiveness.
-* Got **2 pull requests merged** into production repositories.
+* Resolved **12+ UI inconsistencies** across **8 React components**, improving responsiveness.
+* Contributed **2 pull requests** that were merged into production repositories.
 
----
 
 ## Technical Skills
 
@@ -88,7 +87,7 @@ Pre-final year B.Tech IT student at PICT Pune with a Minor in Finance and a **9.
 </p>
 
 </div>
-----
+
 
 ## Projects
 
@@ -197,11 +196,6 @@ stack: Python, SentenceTransformers, Scikit-learn, Pandas, Streamlit
 <br/>
 
 <img src="./dist/graph.svg" alt="GitHub contribution graph" width="100%"/>
-
-<br/>
-
-<img src="./dist/isocat.svg" alt="Isometric contribution calendar with Mochi" width="100%"/>
-
 
 </div>
 
