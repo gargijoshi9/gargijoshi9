@@ -1,17 +1,9 @@
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/gargijoshi9/gargijoshi9/main/dist/pet.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/gargijoshi9/gargijoshi9/main/dist/pet-light.svg">
-  <img
-    alt="Mochi, my GitHub profile cat"
-    src="https://raw.githubusercontent.com/gargijoshi9/gargijoshi9/main/dist/pet.svg"
-    width="100%">
-</picture>
+<img
+  alt="Mochi, my GitHub profile cat"
+  src="./dist/pet.svg"
+  width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Gargi%20Joshi&fontSize=56&fontColor=C9819A&fontAlignY=50&animation=fadeIn" width="100%"/>
 
@@ -195,12 +187,21 @@ stack: Python, SentenceTransformers, Scikit-learn, Pandas, Streamlit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gargijoshi9&show_icons=true&theme=tokyonight&border_color=6C63FF&hide_border=false&count_private=true" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargijoshi9&layout=compact&theme=tokyonight&border_color=6C63FF&hide_border=false" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gargijoshi9&show_icons=true&theme=tokyonight&border_color=6C63FF&hide_border=false&count_private=true" alt="GitHub profile statistics" width="49%"/>
+<img src="./dist/langs.svg" alt="Languages across public repositories" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargijoshi9&theme=tokyonight&border=6C63FF" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargijoshi9&theme=tokyonight&border=6C63FF" alt="GitHub contribution streak statistics" width="80%"/>
+
+<br/>
+
+<img src="./dist/graph.svg" alt="GitHub contribution graph" width="100%"/>
+
+<br/>
+
+<img src="./dist/isocat.svg" alt="Isometric contribution calendar with Mochi" width="100%"/>
+
 
 </div>
 
