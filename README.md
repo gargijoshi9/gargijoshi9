@@ -45,59 +45,39 @@ Pre-final year IT student at PICT Pune (Minor in Finance, **9.42 CGPA**). I turn
 
 <div align="left">
 
-**Data Science & Machine Learning**
-
+###  Languages
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-306998?style=for-the-badge&logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
 </p>
 
-<!-- <sub>Also: LightGBM · CatBoost · Isolation Forest · SHAP · Feature Engineering</sub> -->
-
-<br/>
-
-**AI / LLM Engineering**
-
+###  AI / Machine Learning
 <p>
-<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
-<!-- <sub>Also: MongoDB Vector Search · Tesseract OCR · Prompt Engineering · Gemini API · Qiskit</sub> -->
-
-<br/>
-
-**Full-Stack Development**
-
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-306998?style=flat-square&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-4B8B3B?style=flat-square&logo=lightgbm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-6C1F35?style=flat-square&logo=databricks&logoColor=white"/>
 </p>
 
-<br/>
-
-**Databases & Infrastructure**
-
+###  Full-Stack Development
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi" />
+</p>
+
+###  Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+###  Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,linux" />
 </p>
 
 </div>
-
 ----
 
 ##  Key Projects
