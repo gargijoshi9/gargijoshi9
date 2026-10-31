@@ -158,6 +158,24 @@ Pre-final year IT student at PICT Pune (Minor in Finance, **9.42 CGPA**). I turn
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gargijoshi9/gargijoshi9/main/dist/pet.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gargijoshi9/gargijoshi9/main/dist/pet-light.svg">
+  <img
+    alt="Mochi, my GitHub profile cat"
+    src="https://raw.githubusercontent.com/gargijoshi9/gargijoshi9/main/dist/pet.svg"
+    width="100%">
+</picture>
+
+</div>
+
+
 ##  Academic Profile
 
 **Pune Institute of Computer Technology (PICT), Pune**
