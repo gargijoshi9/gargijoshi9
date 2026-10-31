@@ -29,14 +29,14 @@
 
 </div>
 
-##  Summary
+## Summary
 
 Pre-final year B.Tech IT student at PICT Pune with a Minor in Finance and a **9.42 CGPA**. I focus on AI/ML and software engineering. I turn messy, real-world data into models and insights people can actually use, and I build the full-stack systems to ship them when needed.
 
 <img src="https://img.shields.io/badge/Open%20for%20Internship-2EA043?style=for-the-badge&labelColor=1A0D10"/> 
 
 
-##  Professional Experience
+## Professional Experience
 
 ### Research Intern & Team Lead · AWS Cloud Club, PICT Pune
 *Aug 2026 – Oct 2026*
@@ -59,16 +59,16 @@ Pre-final year B.Tech IT student at PICT Pune with a Minor in Finance and a **9.
 
 ---
 
-##  Tech Stack
+## Technical Skills
 
 <div align="left">
 
-###  Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
 </p>
 
-###  AI / Machine Learning
+### AI & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
@@ -80,17 +80,17 @@ Pre-final year B.Tech IT student at PICT Pune with a Minor in Finance and a **9.
   <img src="https://img.shields.io/badge/RAG-6C1F35?style=flat-square&logo=databricks&logoColor=white"/>
 </p>
 
-###  Full-Stack Development
+### Full-Stack Development
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi" />
 </p>
 
-###  Databases & Cloud
+### Databases & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 </p>
 
-###  Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,linux" />
 </p>
@@ -98,7 +98,7 @@ Pre-final year B.Tech IT student at PICT Pune with a Minor in Finance and a **9.
 </div>
 ----
 
-## Projects Build so far
+## Projects
 
 ### MuleRadar — AI Mule Detection Platform
 [GitHub](https://github.com/gargijoshi9/BOI) · *BOI 2026 Hackathon Finalist, Top 31 Nationwide*
@@ -179,7 +179,7 @@ stack: Python, SentenceTransformers, Scikit-learn, Pandas, Streamlit
 
 ---
 
-##  Featured Metrics & Milestones
+## Featured Metrics & Milestones
 
 | Target Metric | Recognition / Project Context |
 |---|---|
@@ -191,7 +191,7 @@ stack: Python, SentenceTransformers, Scikit-learn, Pandas, Streamlit
 
 ---
 
-##  Developer Metrics
+## Developer Metrics
 
 <div align="center">
 
@@ -205,18 +205,23 @@ stack: Python, SentenceTransformers, Scikit-learn, Pandas, Streamlit
 </div>
 
 
-##  Academic Profile
+## Academic Profile
 
-**Pune Institute of Computer Technology (PICT), Pune**
-*B.Tech (Hons.) in Information Technology (Minor in Finance)*
-* **CGPA:** 9.42 / 10
-* **Timeline:** Sept 2024 – Present
+| Academic Detail | Information |
+|---|---|
+| Institution | Pune Institute of Computer Technology (PICT), Pune |
+| Program | B.Tech in Information Technology (Minor in Finance) |
+| CGPA | 9.42 / 10 |
+| Timeline | Sept 2024 – Present |
 
----
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=gargijoshi9&color=6C63FF&style=flat-square)
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gargijoshi9&color=6C63FF&style=for-the-badge" alt="Profile views"/>
+
+</div>
 
 <div align="center">
 
