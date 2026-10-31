@@ -5,9 +5,9 @@
   src="./dist/pet.svg"
   width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Gargi%20Joshi&fontSize=56&fontColor=C9819A&fontAlignY=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Gargi%20Joshi&fontSize=56&fontColor=7A1F3D&fontAlignY=50&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C9819A&center=true&vCenter=true&random=false&width=800&lines=Building+AI+that+turns+data+into+decisions;Software+Engineering+%7C+Machine+Learning+%7C+Intelligent+Systems;Exploring+LLMs%2C+RAG+%26+Intelligent+Systems;Developing+Scalable+Full-Stack+Applications;AI%2FML+Engineer+%7C+Software+Engineer;Hackathon+Winner+%7C+PICT+Pune)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=7A1F3D&center=true&vCenter=true&random=false&width=800&lines=Building+AI+that+turns+data+into+decisions;Software+Engineering+%7C+Machine+Learning+%7C+Intelligent+Systems;Exploring+LLMs%2C+RAG+%26+Intelligent+Systems;Developing+Scalable+Full-Stack+Applications;AI%2FML+Engineer+%7C+Software+Engineer;Hackathon+Winner+%7C+PICT+Pune)](https://git.io/typing-svg)
 
 
 
@@ -187,12 +187,12 @@ stack: Python, SentenceTransformers, Scikit-learn, Pandas, Streamlit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gargijoshi9&show_icons=true&theme=tokyonight&border_color=6C63FF&hide_border=false&count_private=true" alt="GitHub profile statistics" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gargijoshi9&show_icons=true&theme=tokyonight&border_color=7A1F3D&hide_border=false&count_private=true" alt="GitHub profile statistics" width="49%"/>
 <img src="./dist/langs.svg" alt="Languages across public repositories" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargijoshi9&theme=tokyonight&border=6C63FF" alt="GitHub contribution streak statistics" width="80%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargijoshi9&theme=tokyonight&border=7A1F3D" alt="GitHub contribution streak statistics" width="80%"/>
 
 <br/>
 
@@ -220,7 +220,7 @@ stack: Python, SentenceTransformers, Scikit-learn, Pandas, Streamlit
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=gargijoshi9&color=6C63FF&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=gargijoshi9&color=7A1F3D&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
