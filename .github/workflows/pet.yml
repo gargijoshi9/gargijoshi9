@@ -15,16 +15,42 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate YourTomo
-        uses: prsdx/github-pet@v1
+      - name: Check out YourTomo generator
+        uses: actions/checkout@v4
         with:
-          username: gargijoshi9
-          timezone-offset-minutes: "0"
-          pet-name: "mochi"
-          accent-color: "#C9819A"
-          display-name: "Gargi"
+          repository: prsdx/github-pet
+          ref: v1
+          path: .github/actions/github-pet
+
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version-file: .github/actions/github-pet/.bun-version
+
+      - name: Generate YourTomo
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PET_USER: gargijoshi9
+          PET_TZ_OFFSET_MINUTES: "0"
+          PET_CAT_NAME: mochi
+          PET_ACCENT: "#C9819A"
+          PET_NAME: Gargi
+          PET_OUTPUT_DIR: ${{ github.workspace }}/dist
+          PET_ATTRIBUTION: "true"
+        run: bun .github/actions/github-pet/generate.ts
 
       - name: Clean generated pet SVGs
         run: |
-          sed -i '/state: /d' dist/*.svg
+          sed -i '/>state: /d' dist/*.svg
           sed -i -E '/^<rect width="894" height="(190|158)" /d' dist/pet*.svg
+
+      - name: Commit generated pet SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Update pet state [skip ci]"
+          git push
