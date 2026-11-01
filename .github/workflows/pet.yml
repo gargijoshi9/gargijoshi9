@@ -19,7 +19,7 @@ jobs:
         uses: prsdx/github-pet@v1
         with:
           username: gargijoshi9
-          timezone-offset-minutes: "330"
+          timezone-offset-minutes: "0"
           pet-name: "mochi"
           accent-color: "#C9819A"
           display-name: "Gargi"

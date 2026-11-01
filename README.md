@@ -4,20 +4,17 @@
   alt="Mochi, my GitHub profile cat"
   src="./dist/pet.svg"
   width="100%">
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Gargi%20Joshi&fontSize=56&fontColor=C08095&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C08095&center=true&vCenter=true&random=false&width=800&lines=Building+AI+that+turns+data+into+decisions;Software+Engineering+%7C+Machine+Learning+%7C+Intelligent+Systems;Exploring+LLMs%2C+RAG+%26+Intelligent+Systems;Developing+Scalable+Full-Stack+Applications;AI%2FML+Engineer+%7C+Software+Engineer;Hackathon+Winner+%7C+PICT+Pune)](https://git.io/typing-svg)
-
-
 
 <p>
   <a href="https://www.linkedin.com/in/gargi-joshi-a9246b331"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://gargijoshi9.github.io/myportfolio/"><img src="https://img.shields.io/badge/Portfolio-7F1B1F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/gargijoshi9"><img src="https://img.shields.io/badge/GitHub-111101?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/gargijoshi9/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="mailto:gargijoshi0902@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
 
 </div>
 
