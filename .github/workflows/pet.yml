@@ -26,5 +26,5 @@ jobs:
 
       - name: Clean generated pet SVGs
         run: |
-          sed -i '/>state: /d' dist/*.svg
-          sed -i -E '/<rect width="894" height="190" fill="#(0d1117|ffffff)"\/>/d; /<rect width="894" height="158" fill="#(02060f|0d1117)" opacity="0\.(4|12)"\/>/d' dist/pet*.svg
+          sed -i '/state: /d' dist/*.svg
+          sed -i -E '/^<rect width="894" height="(190|158)" /d' dist/pet*.svg
