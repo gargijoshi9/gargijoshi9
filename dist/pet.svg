@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="894" height="190" viewBox="0 0 894 190" role="img" aria-label="github pet: sleeping">
 <title>github pet - sleeping</title>
+<rect width="894" height="190" fill="#0d1117"/>
+<rect width="894" height="158" fill="#f77825" opacity="0.1"/>
 <line x1="0" y1="158" x2="894" y2="158" stroke="#30363d" stroke-width="2" stroke-dasharray="8 8"/>
 <rect x="120" y="80" width="6" height="6" fill="#e6edf3"/>
 <rect x="150" y="80" width="6" height="6" fill="#e6edf3"/>
@@ -22,4 +24,5 @@
 <text x="184" y="80" font-family="monospace" font-size="15" fill="#C9819A" opacity="0">z<animateTransform attributeName="transform" type="translate" values="0 0;8 -26" dur="3s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.25;0.75;1" dur="3s" begin="1s" repeatCount="indefinite"/></text>
 <text x="200" y="80" font-family="monospace" font-size="18" fill="#C9819A" opacity="0">z<animateTransform attributeName="transform" type="translate" values="0 0;8 -26" dur="3s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.25;0.75;1" dur="3s" begin="2s" repeatCount="indefinite"/></text>
 <text x="215" y="52" font-family="monospace" font-style="italic" font-size="12" fill="#8b949e">dreaming in Jupyter Notebook</text>
+<text x="16" y="180" font-family="monospace" font-size="12" fill="#8b949e">state: sleeping - mochi is sleeping - it is 05:52 local time right now · 11 pushes · 0 prs this week · 252 contributions this year · regenerated every 6h · github-pet by prsdx</text>
 </svg>
