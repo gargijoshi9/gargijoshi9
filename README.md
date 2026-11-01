@@ -214,9 +214,3 @@ stack: Python, SentenceTransformers, Scikit-learn, Pandas, Streamlit
 <img src="https://komarev.com/ghpvc/?username=gargijoshi9&color=7A1F3D&style=for-the-badge" alt="Profile views"/>
 
 </div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D1B1F,50:6C1F35,100:8B2942&height=90&section=footer" width="100%"/>
-
-</div>
