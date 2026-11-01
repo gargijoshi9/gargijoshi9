@@ -23,3 +23,6 @@ jobs:
           pet-name: "mochi"
           accent-color: "#C9819A"
           display-name: "Gargi"
+
+      - name: Remove generated status footer
+        run: sed -i '/>state: /d' dist/*.svg
