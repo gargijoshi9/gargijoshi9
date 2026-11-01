@@ -6,7 +6,7 @@
   width="100%">
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Gargi%20Joshi&fontSize=40&fontColor=C08095&fontAlignY=50&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=C08095&center=true&vCenter=true&random=false&width=700&lines=Building+AI+that+turns+data+into+decisions;Software+Engineering+%7C+Machine+Learning+%7C+Intelligent+Systems;Exploring+LLMs%2C+RAG+%26+Intelligent+Systems;Developing+Scalable+Full-Stack+Applications;AI%2FML+Engineer+%7C+Software+Engineer;Hackathon+Winner+%7C+PICT+Pune)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=C08095&center=true&vCenter=true&random=false&width=1000&lines=Building+AI+that+turns+data+into+decisions;Software+Engineering+%7C+Machine+Learning+%7C+Intelligent+Systems;Exploring+LLMs%2C+RAG+%26+Intelligent+Systems;Developing+Scalable+Full-Stack+Applications;AI%2FML+Engineer+%7C+Software+Engineer;Hackathon+Winner+%7C+PICT+Pune)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/gargi-joshi-a9246b331"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
