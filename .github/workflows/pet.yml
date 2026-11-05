@@ -2,7 +2,7 @@ name: Update YourTomo Cat
 
 on:
   schedule:
-    - cron: '23 */6 * * *'
+    - cron: '23 2,14 * * *'
   workflow_dispatch:
 
 permissions:
@@ -31,7 +31,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
           PET_USER: gargijoshi9
-          PET_TZ_OFFSET_MINUTES: "0"
+          PET_TZ_OFFSET_MINUTES: "330"
           PET_CAT_NAME: mochi
           PET_ACCENT: "#C9819A"
           PET_NAME: Gargi
