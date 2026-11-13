@@ -133,7 +133,7 @@ stack: Python, LightGBM, Scikit-learn, Pandas, NumPy, Lightkurve, Streamlit
 - Compared Random Forest and LightGBM with 5-fold CV; final model reached **73% held-out accuracy** on 3 classes.
 - Ran Box Least Squares transit searches and built a Streamlit dashboard for analysis.
 ### MSME-360 — AI Business Automation SaaS
-[Live Demo](https://pbl-project-7.onrender.com/)
+[Live Demo](https://pbl-project-tan.vercel.app/)
  
 ```yaml
 stack: React, TypeScript, Node.js, MongoDB, Groq API, Tesseract.js
